@@ -8,9 +8,6 @@
  * Author URI: http://samueldedios.com
  * Requires at least: <4.X.X
  * Tested up to: 5.2.2
- *
- * Text Domain: wprincipiante
- * Domain Path: /languages/
  */
 
 
